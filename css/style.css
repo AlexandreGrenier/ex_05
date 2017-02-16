@@ -7,20 +7,23 @@ html {
 #svg_4,
 #svg_5 {
   position: fixed ;
-  width: 300px;
-  height: 300px;
+  width: 200px;
+  height: 200px;
 }
 #svg_1 {
-  margin-left: 250px;
+  margin-left: 20px;
 }
 #svg_2 {
-  margin-left: 500px;
+  margin-left: 240px;
 }
 #svg_3 {
-  margin-left: 750px;
+  margin-left: 460px;
 }
 #svg_4 {
-  margin-left: 1000px;
+  margin-left: 680px;
+}
+#svg_5 {
+  margin-left: 900px;
 }
 /* Définir la couleur de fond, la couleur du contour, l'épaisseur du contour du path */
 #svg_1 path,
@@ -28,7 +31,7 @@ html {
 #svg_3 path,
 #svg_4 path,
 #svg_5 path {
-  stroke-width: 1.5;
-  stroke: #ff5656;
+  stroke-width: 3;
+  stroke: #654f93;
   fill: #fff;
 }
